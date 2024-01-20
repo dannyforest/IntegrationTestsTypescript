@@ -5,7 +5,7 @@
 - User.ts, Address.ts, and Company.ts define the data models.
 - Run the application to see the fetched user data printed in the console.
 
-#Testing
+# Testing
 
 - The project is structured to facilitate integration testing.
 - Methods in ApiClient.ts and User.ts are designed to be easily testable.
